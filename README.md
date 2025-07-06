@@ -1,28 +1,53 @@
-# C# Projects
+# 🧠 Proyectos en C# - Formación SENA
 
-Este repositorio contiene una colección de proyectos y ejercicios desarrollados en C#. Cada archivo representa un programa independiente que aborda diferentes temáticas y problemas prácticos para fortalecer el aprendizaje del lenguaje y la lógica de programación.
+Este repositorio contiene una colección de ejercicios desarrollados en el lenguaje **C#** como parte del proceso de formación en el **SENA**. Los ejercicios están organizados por temas fundamentales de la programación orientada a objetos y estructuras de control, con el fin de reforzar la lógica de programación, la sintaxis de C#, y los principios del desarrollo de software.
 
-## 📂 Proyectos incluidos (ejemplos)
+---
 
-- `Academia_patinaje.cs`: Programa relacionado con la gestión de una academia de patinaje.
-- `Clinica.cs`: Ejercicio o sistema básico para administración clínica.
-- `Encuesta_correcta.cs`: Programa para manejo o análisis de encuestas.
-- `Fiesta.cs`: Simulación o gestión de eventos tipo fiesta.
-- `Operaciones.cs`: Ejercicios de operaciones básicas.
-- `Piezas.cs`: Gestión de piezas o inventarios.
-- `Salon_belleza.cs`: Programa para administración de un salón de belleza.
-- `Banco_sangre.cs`: Sistema básico relacionado con un banco de sangre.
-- `Joyeria.cs`: Gestión o simulación de una joyería.
-- `Lavado.cs` y `Wash_parqueo.cs`: Proyectos sobre lavado de vehículos y parqueo.
+## 📂 Estructura del Repositorio
 
-## 🚀 Objetivo
+Cada carpeta contiene ejercicios prácticos sobre un tema específico:
 
-Ofrecer un espacio para el desarrollo y práctica de conceptos de programación en C# a través de ejercicios y mini proyectos variados, permitiendo mejorar habilidades en programación orientada a objetos y resolución de problemas.
+### 🧱 Fundamentos del Lenguaje
+- `Errores_sintacticos_y_logicos`: Identificación y corrección de errores comunes.
+- `Operadores_logicos_y_matematicos`: Uso de operadores en expresiones.
+- `Cadena_de_caracteres`: Manejo de strings y operaciones básicas.
 
-## 🛠 Tecnologías
+### 🔄 Estructuras de Control
+- `Estructuras_secuenciales_condicionales_simples_y_compuestas`: Condicionales `if`, `else`, y anidadas.
+- `Estructura_if_con_operadores_logicos`: Condiciones compuestas usando operadores lógicos.
+- `Estructura_repetitiva_for`: Uso de bucle `for`.
+- `Estructura_repetitiva_while`: Uso de bucle `while`.
+- `Estructura_repetitiva_do-while`: Ejercicios con `do-while`.
 
-- Lenguaje: C#  
+### 🧮 Estructuras de Datos
+- `Estructura_de_datos_tipo_vector`: Introducción a arreglos (vectores).
+- `Tamano_de_un_vector`: Cálculo y manejo de longitud de vectores.
+- `Vectores_max_y_min`: Búsqueda de valores máximo y mínimo.
+- `Vectores_paralelos`: Uso de múltiples arreglos relacionados.
+- `Matrices`: Implementación y recorrido de matrices bidimensionales.
 
-## ✍️ Autor
+### ⚙️ Programación Modular
+- `Declaracion_de_metodos`: Creación y uso de métodos personalizados.
+- `Funciones`: Implementación de funciones con retorno y parámetros.
 
-Desarrollado por [Stephany Moreno](https://github.com/Kanny26)
+### 🧱 Programación Orientada a Objetos
+- `Abstraccion`: Ejercicios sobre clases abstractas.
+- `Encapsulamiento`: Uso de modificadores de acceso (`private`, `public`, etc.).
+- `Herencia`: Implementación de clases derivadas.
+
+---
+
+## 📌 Objetivo
+
+Practicar y afianzar los conocimientos adquiridos en programación utilizando **C#** a través de ejercicios progresivos, enfocados en resolver problemas reales con buenas prácticas de codificación.
+
+---
+
+## 👩‍💻 Autor
+
+**Stephany Moreno (Kanny26)**  
+Estudiante de Análisis y Desarrollo de Software – SENA  
+🔗 [GitHub Profile](https://github.com/Kanny26)
+
+
